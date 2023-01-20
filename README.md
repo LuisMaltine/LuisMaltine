@@ -1,11 +1,14 @@
 ### Seja Bem-Vindo 👋
 
-🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛✔
 
-- 🔭 I’m currently working on ...
+• 🤖 Atualmente estou Desenvolvendo Bots no discord e I.A• 🤖
 
-- 🌱 I’m currently learning ...
+• 
 
-###Skills
-👨‍💻 Phyton,TypeScript, JavaScript, PHP, C#
-💽 MySQL, SQL
+
+•👨‍💻 Phyton,TypeScript, JavaScript, PHP, C# 
+
+•💽 MySQL, SQL
+
+(☞ﾟヮﾟ)☞
